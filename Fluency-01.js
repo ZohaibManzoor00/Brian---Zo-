@@ -7,7 +7,7 @@ const isCapitalized = (string) => {
     }
 
 }
-
+//this is a trail
 const isCapitalizedtest1 = 'Hello' // True
 const isCapitalizedtest2 = 'hello' // False
 const isCapitalizedtest3 = 'hELLO' // False
